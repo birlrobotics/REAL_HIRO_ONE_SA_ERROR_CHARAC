@@ -3,6 +3,7 @@
 *.jpeg
 *.tiff
 *.eps
+*.db
 
 # Initialization files
 *.ini
@@ -23,6 +24,7 @@
 *.avi
 *.mpg
 *.mpeg
+*.mov
 
 # Adobe
 *.pdf
@@ -31,3 +33,6 @@
 # Matlab
 *.fig
 *.mat
+
+# Backup
+*.*~
