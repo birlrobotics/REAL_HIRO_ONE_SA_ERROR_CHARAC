@@ -1,0 +1,99 @@
+Iteration     : 1
+CompLabel     : FX
+averageVal1   : -0.02362
+averageVal2   : -0.02362
+AVG_MAG_VAL   : -0.02362
+rmsVal1       : 0.00099
+rmsVal2       : 0.00099
+AVG_RMS_Val   : 0.00099
+amplitudeVal1 : 0.00582
+amplitudeVal2 : 0.00582
+AVG_AMP_VAL   : 0.00582
+Label 1       : k
+Label 2       : 
+
+t1Start       : 0.00000
+t1End         : 3.30000
+t2Start       : 3.22500
+t2End         : 3.30000
+tAvgIndex     : 1.65000
+
+Iteration     : 2
+CompLabel     : AL
+averageVal1   : 0.01163
+averageVal2   : 0.01163
+AVG_MAG_VAL   : 0.01163
+rmsVal1       : 0.07275
+rmsVal2       : 0.07275
+AVG_RMS_Val   : 0.07275
+amplitudeVal1 : 0.11728
+amplitudeVal2 : 0.11728
+AVG_AMP_VAL   : 0.11728
+Label 1       : a
+Label 2       : 
+
+t1Start       : 3.30000
+t1End         : 3.35000
+t2Start       : 3.35000
+t2End         : 3.37500
+tAvgIndex     : 3.33750
+
+Iteration     : 3
+CompLabel     : PL
+averageVal1   : -0.04614
+averageVal2   : -0.04614
+AVG_MAG_VAL   : -0.04614
+rmsVal1       : -0.03203
+rmsVal2       : -0.03203
+AVG_RMS_Val   : -0.03203
+amplitudeVal1 : 0.04190
+amplitudeVal2 : 0.04190
+AVG_AMP_VAL   : 0.04190
+Label 1       : d
+Label 2       : 
+
+t1Start       : 3.37500
+t1End         : 3.37500
+t2Start       : 3.40000
+t2End         : 3.40000
+tAvgIndex     : 3.38750
+
+Iteration     : 4
+CompLabel     : FX
+averageVal1   : 0.38739
+averageVal2   : 0.38739
+AVG_MAG_VAL   : 0.38739
+rmsVal1       : 0.85767
+rmsVal2       : 0.85767
+AVG_RMS_Val   : 0.85767
+amplitudeVal1 : 0.20902
+amplitudeVal2 : 0.20902
+AVG_AMP_VAL   : 0.20902
+Label 1       : k
+Label 2       : 
+
+t1Start       : 3.40000
+t1End         : 7.82500
+t2Start       : 4.62500
+t2End         : 7.82500
+tAvgIndex     : 5.61250
+
+Iteration     : 5
+CompLabel     : AL
+averageVal1   : -0.63030
+averageVal2   : -0.63407
+AVG_MAG_VAL   : -0.64941
+rmsVal1       : 0.24901
+rmsVal2       : -0.37245
+AVG_RMS_Val   : 0.24901
+amplitudeVal1 : 1.07792
+amplitudeVal2 : 0.36627
+AVG_AMP_VAL   : 1.07792
+Label 1       : pc
+Label 2       : pc
+t1Start       : 7.82500
+t1End         : 9.35000
+t2Start       : 9.35000
+t2End         : 9.95000
+tAvgIndex     : 8.88750
+

@@ -1,0 +1,58 @@
+Iteration     : 1
+CompLabel     : FX
+averageVal1   : -0.00347
+averageVal2   : -0.10115
+AVG_MAG_VAL   : -0.05109
+rmsVal1       : 0.01442
+rmsVal2       : 0.01442
+AVG_RMS_Val   : 0.09169
+amplitudeVal1 : 0.00335
+amplitudeVal2 : 0.06858
+AVG_AMP_VAL   : 0.09019
+Label 1       : a
+Label 2       : a
+t1Start       : 0.00000
+t1End         : 3.40000
+t2Start       : 3.40000
+t2End         : 7.42500
+tAvgIndex     : 3.71250
+
+Iteration     : 2
+CompLabel     : PL
+averageVal1   : -0.21591
+averageVal2   : -0.21591
+AVG_MAG_VAL   : -0.21591
+rmsVal1       : 0.10765
+rmsVal2       : 0.10765
+AVG_RMS_Val   : 0.10765
+amplitudeVal1 : 0.30069
+amplitudeVal2 : 0.30069
+AVG_AMP_VAL   : 0.30069
+Label 1       : d
+Label 2       : 
+
+t1Start       : 7.42500
+t1End         : 8.37500
+t2Start       : 8.15000
+t2End         : 8.37500
+tAvgIndex     : 7.90000
+
+Iteration     : 3
+CompLabel     : FX
+averageVal1   : -0.56948
+averageVal2   : -0.35667
+AVG_MAG_VAL   : -0.49397
+rmsVal1       : -0.47425
+rmsVal2       : -0.47425
+AVG_RMS_Val   : -0.25184
+amplitudeVal1 : 0.20848
+amplitudeVal2 : 0.14645
+AVG_AMP_VAL   : 0.20848
+Label 1       : a
+Label 2       : a
+t1Start       : 8.37500
+t1End         : 8.67500
+t2Start       : 8.67500
+t2End         : 9.92500
+tAvgIndex     : 9.15000
+

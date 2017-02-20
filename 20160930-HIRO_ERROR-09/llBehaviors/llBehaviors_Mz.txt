@@ -1,0 +1,19 @@
+Iteration     : 1
+CompLabel     : FX
+averageVal1   : -0.11597
+averageVal2   : -0.46020
+AVG_MAG_VAL   : -0.33563
+rmsVal1       : 0.00303
+rmsVal2       : 0.00303
+AVG_RMS_Val   : 0.00303
+amplitudeVal1 : 0.00305
+amplitudeVal2 : 0.20764
+AVG_AMP_VAL   : 0.32795
+Label 1       : a
+Label 2       : a
+t1Start       : 0.00000
+t1End         : 8.15000
+t2Start       : 8.15000
+t2End         : 9.92500
+tAvgIndex     : 4.96250
+

@@ -1,0 +1,98 @@
+Iteration     : 1
+CompLabel     : FX
+averageVal1   : -0.00320
+averageVal2   : 0.01561
+AVG_MAG_VAL   : 0.01194
+rmsVal1       : 0.00391
+rmsVal2       : 0.00391
+AVG_RMS_Val   : 0.06012
+amplitudeVal1 : 0.00278
+amplitudeVal2 : 0.01670
+AVG_AMP_VAL   : 0.04430
+Label 1       : a
+Label 2       : a
+t1Start       : 0.00000
+t1End         : 3.35000
+t2Start       : 3.35000
+t2End         : 3.77500
+tAvgIndex     : 1.88750
+
+Iteration     : 2
+CompLabel     : PL
+averageVal1   : -0.04050
+averageVal2   : -0.04050
+AVG_MAG_VAL   : -0.04050
+rmsVal1       : 0.00880
+rmsVal2       : 0.00880
+AVG_RMS_Val   : 0.00880
+amplitudeVal1 : 0.09860
+amplitudeVal2 : 0.09860
+AVG_AMP_VAL   : 0.09860
+Label 1       : d
+Label 2       : 
+
+t1Start       : 3.77500
+t1End         : 3.77500
+t2Start       : 3.95000
+t2End         : 3.95000
+tAvgIndex     : 3.86250
+
+Iteration     : 3
+CompLabel     : FX
+averageVal1   : -0.09689
+averageVal2   : -0.09689
+AVG_MAG_VAL   : -0.09689
+rmsVal1       : -0.06845
+rmsVal2       : -0.06845
+AVG_RMS_Val   : -0.06845
+amplitudeVal1 : 0.07591
+amplitudeVal2 : 0.07591
+AVG_AMP_VAL   : 0.07591
+Label 1       : k
+Label 2       : 
+
+t1Start       : 3.95000
+t1End         : 7.82500
+t2Start       : 4.05000
+t2End         : 7.82500
+tAvgIndex     : 5.88750
+
+Iteration     : 4
+CompLabel     : PS
+averageVal1   : -0.03640
+averageVal2   : -0.03640
+AVG_MAG_VAL   : -0.03640
+rmsVal1       : 0.02042
+rmsVal2       : 0.02042
+AVG_RMS_Val   : 0.02042
+amplitudeVal1 : 0.11364
+amplitudeVal2 : 0.11364
+AVG_AMP_VAL   : 0.11364
+Label 1       : i
+Label 2       : 
+
+t1Start       : 7.82500
+t1End         : 7.82500
+t2Start       : 7.95000
+t2End         : 7.95000
+tAvgIndex     : 7.88750
+
+Iteration     : 5
+CompLabel     : FX
+averageVal1   : 0.00475
+averageVal2   : 0.00475
+AVG_MAG_VAL   : 0.00475
+rmsVal1       : 0.03759
+rmsVal2       : 0.03759
+AVG_RMS_Val   : 0.03759
+amplitudeVal1 : 0.05261
+amplitudeVal2 : 0.05261
+AVG_AMP_VAL   : 0.05261
+Label 1       : k
+Label 2       : k
+t1Start       : 7.95000
+t1End         : 9.85000
+t2Start       : 7.95000
+t2End         : 9.85000
+tAvgIndex     : 8.90000
+

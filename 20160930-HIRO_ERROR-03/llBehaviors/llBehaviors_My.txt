@@ -1,0 +1,97 @@
+Iteration     : 1
+CompLabel     : FX
+averageVal1   : -0.02761
+averageVal2   : -0.04780
+AVG_MAG_VAL   : -0.03923
+rmsVal1       : 0.00561
+rmsVal2       : 0.00561
+AVG_RMS_Val   : 0.00759
+amplitudeVal1 : 0.07348
+amplitudeVal2 : 0.06351
+AVG_AMP_VAL   : 0.07348
+Label 1       : a
+Label 2       : a
+t1Start       : 0.00000
+t1End         : 1.80000
+t2Start       : 1.80000
+t2End         : 3.12500
+tAvgIndex     : 1.56250
+
+Iteration     : 2
+CompLabel     : PS
+averageVal1   : -0.01513
+averageVal2   : -0.01513
+AVG_MAG_VAL   : -0.01513
+rmsVal1       : 0.03128
+rmsVal2       : 0.03128
+AVG_RMS_Val   : 0.03128
+amplitudeVal1 : 0.12596
+amplitudeVal2 : 0.12596
+AVG_AMP_VAL   : 0.12596
+Label 1       : i
+Label 2       : 
+
+t1Start       : 3.12500
+t1End         : 3.12500
+t2Start       : 3.17500
+t2End         : 3.17500
+tAvgIndex     : 3.15000
+
+Iteration     : 3
+CompLabel     : FX
+averageVal1   : 0.07585
+averageVal2   : -0.05384
+AVG_MAG_VAL   : 0.01055
+rmsVal1       : 0.07788
+rmsVal2       : 0.07788
+AVG_RMS_Val   : 0.11752
+amplitudeVal1 : 0.08702
+amplitudeVal2 : 2.67775
+AVG_AMP_VAL   : 2.67775
+Label 1       : a
+Label 2       : a
+t1Start       : 3.17500
+t1End         : 3.22500
+t2Start       : 3.22500
+t2End         : 3.30000
+tAvgIndex     : 3.23750
+
+Iteration     : 4
+CompLabel     : PS
+averageVal1   : 2.59348
+averageVal2   : 2.59348
+AVG_MAG_VAL   : 2.59348
+rmsVal1       : 4.30873
+rmsVal2       : 4.30873
+AVG_RMS_Val   : 4.30873
+amplitudeVal1 : 3.66474
+amplitudeVal2 : 3.66474
+AVG_AMP_VAL   : 3.66474
+Label 1       : i
+Label 2       : 
+
+t1Start       : 3.30000
+t1End         : 3.65000
+t2Start       : 3.57500
+t2End         : 3.65000
+tAvgIndex     : 3.47500
+
+Iteration     : 5
+CompLabel     : FX
+averageVal1   : 0.62277
+averageVal2   : 0.45280
+AVG_MAG_VAL   : 0.32602
+rmsVal1       : 4.69970
+rmsVal2       : 4.69970
+AVG_RMS_Val   : 4.69970
+amplitudeVal1 : 5.30256
+amplitudeVal2 : 0.21994
+AVG_AMP_VAL   : 5.30256
+Label 1       : a
+Label 2       : a
+t1Start       : 3.65000
+t1End         : 12.25000
+t2Start       : 12.25000
+t2End         : 18.46500
+tAvgIndex     : 11.05750
+
